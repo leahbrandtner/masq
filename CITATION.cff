@@ -1,4 +1,6 @@
 cff-version: 1.2.0
+date-released: 2026-09-03
+repository-code: "https://github.com/leahbrandtner/masq"
 message: "If you use this software in academic work, please cite it using the metadata below."
 title: "MasQ: CZI ROI Mask Analyzer"
 abstract: >-
