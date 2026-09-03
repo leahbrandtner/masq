@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite it using the metadata below."
+title: "MasQ: CZI ROI Mask Analyzer"
+abstract: >-
+  A graphical Python application for mask-based quantitative analysis of
+  multichannel fluorescence microscopy images in Carl Zeiss Image (CZI)
+  format. MasQ supports region-of-interest selection, background correction,
+  automatic and manual thresholding, mask generation, object measurements,
+  intensity measurements, preview overlays, and CSV export.
+authors:
+  - family-names: Brandtner
+    given-names: Leah
+    orcid: "https://orcid.org/0009-0001-8462-8887"
+type: software
+version: 1.0.0
+license: MIT
+keywords:
+  - fluorescence microscopy
+  - image analysis
+  - CZI
+  - mask-based quantification
+  - Python
+
